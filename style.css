@@ -70,7 +70,7 @@ nav>ul>li>a{
 
 .hero-text img{
     border-radius: 20px 0 20px 0;
-    box-shadow: #f9faf8;
+    /* box-shadow: #f9faf8; */
 }
 
 section{
@@ -147,7 +147,7 @@ section .Testimonies p{
     padding: 35px 140px;
     border-radius: 10px;
     color: #f9faf8;
-    box-shadow: #f9faf8;
+    /* box-shadow: #f9faf8; */
 }
 
 .action-div .action-text{
